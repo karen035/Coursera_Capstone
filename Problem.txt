@@ -1,0 +1,46 @@
+QUESTION 1:
+	Problem:
+		I want to invest in a type of building in Negros Occidental, the Philippines, in what city should I invest in? 
+		What is the ideal location within the city? And what is the best type of building in order to maximize profits?
+
+	Background:
+		Recently, many infrastructures have been built in Negros Occidental, the Philippines, both within the private 
+		and public sector. As it is the aim the current Duterte administartion to improve the Philippine economy
+		by building infrastructures that would make transportation of goods fast and efficient, make government
+		transactions streamlined and hassle-free, and make government services timely and easy. Therefore the government
+		alloted most of its budget towards infrastructure projects, and as a result of this endeavour numerous businesses 
+		have emerged in order to cater to the needs of the government and its citizens. 
+
+	Target Audience:
+		
+
+			Engineering Firms - in order to prepare as to what kind of engineering techniques will they use in order to put up the 
+					    structure safely and effectively
+
+			Investors         - in order to strategize their marketing and finances on how to allocate resources for the success of  
+                                            the project
+
+			Government	  - in order to pass laws that would moderate the trade and competition so that illicit practices can be 
+         				    prevented
+
+			Small Business Owners - in order to adjust their businesses as to how they can take advantage of the upcoming
+                                                competition and demand
+
+			Service Businesses - in order to market themselves to different sectors as to how they can be of service to them and so 
+   				             that they can price themselves accordingly according to demand
+
+			Energy Sector      - in order for the electric cooperatives to prepare their lines and power supply to different kinds
+                                             of electrical loads in order to ensure smooth grid operations
+	
+			
+			Citizens	   - citizens can be aware of their options in case they need something to have	
+	
+			Media              - media can take advantage of advertising so that they can strategically place their ads to the   
+                                             target customers
+
+			Tourists	   - tourist can take advantage of the availability of supplies, which means, they can have something
+                                             for a lesser price compared to their hometown, or they can be aware of the options just in case                   
+                      			     they want or need something
+
+
+	
